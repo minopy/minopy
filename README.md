@@ -115,7 +115,7 @@
 
 <div align="center" style="border-radius: 20px; overflow: hidden;">
   <a href="https://minopy.com" target="blank">
-    <img width="90" height="90" src="images/◐-white-bg_black.png" alt="Minopy-Portfolio" />
+    <img width="90" height="90" src="images/◐-white-bg_black.png" alt="Minopy-Portfolio" style="border-radius:20px"/>
   </a>
   <!-- <a href="mailto:@gmail.com" target="top">
     <img src="" alt="email" />
